@@ -40,7 +40,7 @@
                         <muleVersion>4.3.0</muleVersion>
                         <workers>1</workers>
                         <workerType>Micro</workerType>
-                        <applicationName>Emp-sys-api-dummy</applicationName>
+                        <applicationName>Emp-sys-api-dummy-jenkins</applicationName>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
 				</configuration>
